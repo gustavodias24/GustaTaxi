@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184144407966",
+    "project_id": "projetos-testes-777",
+    "storage_bucket": "projetos-testes-777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184144407966:android:9f2cd9567751880c73ba8f",
+        "android_client_info": {
+          "package_name": "benicio.ufpa.gustauber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184144407966-d4bnfhi9dpqdltr1o6r60u3a1hp6nps6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "benicio.ufpa.gustauber",
+            "certificate_hash": "9082ea27b8d1382ef5653b5d4269287415b1506d"
+          }
+        },
+        {
+          "client_id": "184144407966-tn2bs411qscga6arvh4ruj93mjv5j4na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrNDq2fszsSv1UgMXlYcRqAYygH8LtbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184144407966-tn2bs411qscga6arvh4ruj93mjv5j4na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
