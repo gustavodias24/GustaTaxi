@@ -5,7 +5,7 @@
 
 
 <video width="320" height="240" controls>
-  <source src="caminho/para/o/video.mp4](https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/videoAplhaGustaTaxi.mp4" type="video/mp4">
+  <source src="https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/videoAplhaGustaTaxi.mp4" type="video/mp4">
   Desculpe, mas seu navegador não suporta o elemento de vídeo.
 </video>
 
