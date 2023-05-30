@@ -43,6 +43,7 @@ public class EsperaActivity extends AppCompatActivity {
                 model = snapshot.getValue(ReqModel.class);
                 
                 if( model.getStatus() == 1){
+                    vbinding.textView4.setText("Corrida em andamento.\nEspere no seu ponto fixo");
                     vbinding.progressBar2.setVisibility(View.GONE);
                     vbinding.textDetalhesCorrida.setVisibility(View.VISIBLE);
                     vbinding.textDetalhesCorrida.setText(

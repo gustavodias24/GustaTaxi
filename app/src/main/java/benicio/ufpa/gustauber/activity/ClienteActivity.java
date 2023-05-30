@@ -178,10 +178,7 @@ public class ClienteActivity extends AppCompatActivity {
         refUsuarios.child(idAtualUser).addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
-                UserModel userReq = snapshot.getValue(UserModel.class);
-
-                usuarioLogado.setLat(userReq.getLat());
-                usuarioLogado.setLongi(userReq.getLongi());
+                usuarioLogado = snapshot.getValue(UserModel.class);
             }
 
             @Override
@@ -352,9 +349,14 @@ public class ClienteActivity extends AppCompatActivity {
         LocationListener locationListener = new LocationListener() {
             @Override
             public void onLocationChanged(Location location) {
+
                  latitude = location.getLatitude();
                  longitude = location.getLongitude();
 
+                 usuarioLogado.setLat(latitude);
+                 usuarioLogado.setLongi(longitude);
+
+                 refUsuarios.child(idAtualUser).setValue(usuarioLogado);
                  createPointer();
 
                 IMapController mapController = map.getController();

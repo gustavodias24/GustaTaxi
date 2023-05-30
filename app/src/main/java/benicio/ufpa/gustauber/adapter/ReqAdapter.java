@@ -75,18 +75,22 @@ public class ReqAdapter extends RecyclerView.Adapter<ReqAdapter.MyViewHolder> {
                                     msgStatus = "Cancelado.";
                                     corMsg = Color.RED;
                                     holder.layoutBtn.setVisibility(View.GONE);
+                                    holder.btn_ver_caminho.setVisibility(View.GONE);
+                                    holder.btn_finalizar.setVisibility(View.GONE);
                                     break;
                                 case 1:
                                     msgStatus = "Em andamento.";
                                     corMsg = Color.YELLOW;
                                     holder.layoutBtn.setVisibility(View.GONE);
                                     holder.btn_finalizar.setVisibility(View.VISIBLE);
+                                    holder.btn_ver_caminho.setVisibility(View.VISIBLE);
                                     break;
                                 case 2:
                                     msgStatus = "Concluído.";
                                     corMsg = Color.GREEN;
                                     holder.layoutBtn.setVisibility(View.GONE);
                                     holder.btn_ver_caminho.setVisibility(View.GONE);
+                                    holder.btn_finalizar.setVisibility(View.GONE);
                                     break;
                                 case 3:
                                     msgStatus = "Aguardando.";
