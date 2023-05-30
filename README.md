@@ -5,6 +5,7 @@ Claro! Aqui está o README com algumas melhorias para torná-lo mais interessant
 Projeto de mobilidade urbana mobile com Firebase!
 
 ![GustaTaxi](https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/print.jpeg)
+![GustaTaxi](https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/mapa.jpeg)
 
 ## Visão Geral
 
