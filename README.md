@@ -1,5 +1,3 @@
-Claro! Aqui está o README com algumas melhorias para torná-lo mais interessante:
-
 # GustaTaxi Alpha 1.0
 
 Projeto de mobilidade urbana mobile com Firebase!
