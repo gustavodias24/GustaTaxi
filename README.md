@@ -4,7 +4,7 @@ Claro! Aqui está o README com algumas melhorias para torná-lo mais interessant
 
 Projeto de mobilidade urbana mobile com Firebase!
 
-<div style="display: flex; flex-direction: row;">
+<div style="margin:auto; display: flex; flex-direction: row;">
   <img src="https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/print.jpeg" alt="GustaTaxi" width="300"/>
   <img src="https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/mapa.jpeg" alt="GustaTaxi" width="300"/>
 </div>
