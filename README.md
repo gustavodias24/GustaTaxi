@@ -9,21 +9,21 @@
 
 # Implementado na versão alpha 1.0 
 
-```Sistema de Login/Cadastro.
+`Sistema de Login/Cadastro.
    Mapa indicando a localização atual.
    Sistema de notificações de corridas e amarzenamento.
    Integração com Firebase ( FirebaseAuth e FirebaseDatabase ).
    Implementação com o google maps para abrir a melhor rota até o destino.
    Cálculo com a fórmula de Haversine para achar a distância e dar o preço para a corrida.
-   Implementação de Status para a corrida ( concluido, cancelada, aguardando e em andamento ).```
+   Implementação de Status para a corrida ( concluido, cancelada, aguardando e em andamento ).`
 
 # Futuras features 
 
-```Adicionar mais informações no cadastro.
+`Adicionar mais informações no cadastro.
    Mais funções para o mapa do aplicativo.
    Melhorias na interface do aplicativo.
    Adicionar mais opções de Login.
-   Sistema de chat.```
+   Sistema de chat.`
 
 
 
