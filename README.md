@@ -1,8 +1,9 @@
 <h1> GustaTaxi Alpha 1.0 </h1>
 <p> Projeto de mobilidade urbana mobile com firebase! </p>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+<img src="https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/print.jpeg" alt="print do app" />
+<video src="https://github.com/gustavodias24/GustaTaxi/blob/master/app/src/main/java/benicio/ufpa/gustauber/resources/videoAplhaGustaTaxi.mp4" alt="video demo"/>
+
+
 
 
