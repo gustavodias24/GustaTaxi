@@ -57,8 +57,3 @@ git clone https://github.com/gustavodias24/GustaTaxi.git
 
 Contribuições são bem-vindas! Se você tiver alguma ideia ou sugestão, sinta-se à vontade para criar um pull request ou abrir uma issue.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/gustavodias24/GustaTaxi/blob/master/LICENSE) para obter mais informações.
-
-Espero que essas alterações tornem o README mais interessante e envolvente para os usuários do seu projeto!
